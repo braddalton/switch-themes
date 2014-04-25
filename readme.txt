@@ -1,5 +1,5 @@
 === Switch Themes ===
 Contributors: wordpresssites
-Requires at least: 3.0
+Requires at least: 2.8
 Tested up to: 3.9
-Stable tag: 1.4.0
+
