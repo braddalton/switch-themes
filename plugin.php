@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Switch Themes
- * Plugin URI:  http://wpsites.net/
+ * Plugin URI:  http://wpsites.net/best-plugins/plugin-to-switch-themes-conditionally/
  * Description: Changes the theme based on the theme folder name you use in the code.
  * Version:     1.0
  * Author:      Brad Dalton
